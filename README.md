@@ -10,7 +10,7 @@ It has a time complexity of O(N + M) where N is the length of the the original s
 
 `Can be used in DNA sequence matcing`
 
-** C++ LIBRARAY USED**
+**C++ LIBRARAY USED**
 
 `iostream` for basic I/O operation .
 `fstream`  for File handling.
